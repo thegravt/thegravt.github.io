@@ -15,7 +15,7 @@
 }
 .container .glitch::before,
 .container .glitch::after {
-  content: 'gravt.io';
+  content: 'gravt.eth';
   position: absolute;
   top: 0;
   left: 0;
