@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900';
+h@import 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900';
 .container {
   height: 100vh;
   background: #000;
@@ -15,7 +15,7 @@
 }
 .container .glitch::before,
 .container .glitch::after {
-  content: 'gravt.io';
+  content: 'gravt.eth';
   position: absolute;
   top: 0;
   left: 0;
