@@ -14,7 +14,7 @@
 		font-weight 700
 		&::before
 		&::after
-			content 'gravt.io'
+			content 'gravt.eth'
 			position absolute
 			top 0
 			left 0
